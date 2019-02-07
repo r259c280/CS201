@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Generating Code...
+  Compiling...
+  Shirt.cpp
+c:\users\ryan\source\repos\assignment 5\assignment 5\shirt.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\assignment 5\assignment 5\shirt.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Register.cpp
+  Product.cpp
+c:\users\ryan\source\repos\assignment 5\assignment 5\product.cpp(39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  OfficeSupplies.cpp
+c:\users\ryan\source\repos\assignment 5\assignment 5\officesupplies.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\assignment 5\assignment 5\officesupplies.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Assignment 5.vcxproj -> C:\Users\Ryan\source\repos\Assignment 5\Debug\Assignment 5.exe

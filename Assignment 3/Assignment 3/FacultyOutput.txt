@@ -1,0 +1,4 @@
+Faculty name is: Zach Shiffer . ID is: 100 . Salary is: 10000.3
+Faculty name is: Toni Alberto . ID is: 103 . Salary is: 98000.4
+Faculty name is: Andrew Jazz . ID is: 108 . Salary is: 94000.6
+Faculty name is: Kyle Zipp . ID is: 109 . Salary is: 68344.1

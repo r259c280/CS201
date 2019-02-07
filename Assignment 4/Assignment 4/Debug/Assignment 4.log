@@ -1,0 +1,10 @@
+﻿  Students.cpp
+c:\users\ryan\source\repos\assignment 4\assignment 4\students.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\assignment 4\assignment 4\students.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\assignment 4\assignment 4\students.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\assignment 4\assignment 4\students.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\ryan\source\repos\assignment 4\assignment 4\students.cpp(66): warning C4715: 'Student::CheckOut': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  Assignment 4.vcxproj -> C:\Users\Ryan\source\repos\Assignment 4\Debug\Assignment 4.exe
